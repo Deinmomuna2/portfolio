@@ -1,0 +1,41 @@
+
+body{
+	color: #6D92A0;
+	background-color: whitesmoke;
+}
+
+section{
+	margin: 50px;
+}
+
+li{
+	font-family: arial;
+	list-style: none;
+}
+
+h1{color: #4C678C;
+	font-family: Lora;
+	text-align: left;
+	font-size: 2rem;
+}
+p{	
+	color: #4C678C;
+	font-family: arial;
+	text-align: left;
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: light;
+}
+
+.main-footer{
+	color: royalblue;
+}
+
+img{margin-right: 20px;
+	float:left;
+}
+.container{
+	display: flex;
+	justify-content: flex-start;
+}
+
